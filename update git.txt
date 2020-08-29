@@ -1,0 +1,9 @@
+Git config --global user.name "username anda"
+Git config --global user.email "email anda"
+
+Git init
+Git add *
+Git commit –m "fajarupdate"
+Git remote add origin https://github.com/aditia091-dev/dev-bio.git
+Git pull origin master
+Git push origin master
