@@ -1,19 +1,8 @@
+Thank you for using our template!
 
-TITLE: 
-Slides - Responsive Free HTML5 Horizontal Slides Template
+For more awesome templates please visit https://colorlib.com/wp/templates/
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co and Designmodo.com
+Copyright information for the template can't be altered/removed unless you purchase a license.
+More information about the license is available here: https://colorlib.com/wp/licence/
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
-
-CREDITS:
-
-jQuery
-http://jquery.com/
-
-Google Fonts
-https://www.google.com/fonts/
+Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
