@@ -13,10 +13,10 @@
 
 	<!-- jQuery 3.3.1 -->
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>-->
-	<script src="js/jquery.min.js"></script>
+	<script src="<?php echo base_url();?>/assets/assets/js/jquery.min.js"></script>
 
 	<!-- Compressed Scripts -->
-	<script src="js/slides.min.js" type="text/javascript"></script>
+	<script src="<?php echo base_url();?>/assets/assets/js/slides.min.js" type="text/javascript"></script>
 
 	<!-- Fonts and Material Icons -->
 	<link rel="stylesheet" as="font" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600,700|Material+Icons"/>
@@ -163,7 +163,7 @@
               <a class="button blue gradient ae-3 fromCenter cropLeft">Get Started</a><a class="button white ae-4 fromCenter">Learn more</a>
             </li>
             <li class="col-6-12">
-              <img class="ae-4" width="605" src="assets/img/iphones-34.png" alt="iPhones Thumbnail" data-action="zoom"/>
+              <img class="ae-4" width="605" src="<?php echo base_url();?>/assets/assets/img/iphones-34.png" alt="iPhones Thumbnail" data-action="zoom"/>
             </li>
           </ul>
         </div>
