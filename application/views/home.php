@@ -9,24 +9,24 @@
 
     <link href="https://fonts.googleapis.com/css?family=Prata&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/animate.css">
     
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/magnific-popup.css">
 
-    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/aos.css">
 
-    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/ionicons.min.css">
 
-    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="css/jquery.timepicker.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/jquery.timepicker.css">
 
     
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/icomoon.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/flaticon.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/icomoon.css">
+    <link rel="stylesheet" href="<?php base_url(); ?>asset/css/style.css">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
@@ -50,7 +50,7 @@
     </nav>
     <!-- END nav -->
 
-    <section class="hero-wrap js-fullheight" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap js-fullheight" style="background-image: url('<?php base_url(); ?>asset/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center">
@@ -73,7 +73,7 @@
       </div>
     </section>
     
-    <section class="ftco-section ftco-intro" style="background-image: url(images/intro.jpg);">
+    <section class="ftco-section ftco-intro" style="background-image: url(<?php base_url(); ?>asset/images/intro.jpg);">
       <div class="container">
         <div class="row justify-content-end">
           <div class="col-md-6">
@@ -98,7 +98,7 @@
         <div class="row no-gutters">
           <div class="col-md-4 d-flex align-items-stretch">
             <div class="offer-deal text-center px-2 px-lg-5">
-              <div class="img" style="background-image: url(images/offer-deal-1.jpg);"></div>
+              <div class="img" style="background-image: url(<?php base_url(); ?>asset/images/offer-deal-1.jpg);"></div>
               <div class="text mt-4">
                 <h3 class="mb-4">Book Your Treatment</h3>
                 <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -108,7 +108,7 @@
           </div>
           <div class="col-md-4 d-flex align-items-stretch">
             <div class="offer-deal active text-center px-2 px-lg-5">
-              <div class="img" style="background-image: url(images/offer-deal-2.jpg);"></div>
+              <div class="img" style="background-image: url(<?php base_url(); ?>asset/images/offer-deal-2.jpg);"></div>
               <div class="text mt-4">
                 <h3 class="mb-4">Great Gift Packages</h3>
                 <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -118,7 +118,7 @@
           </div>
           <div class="col-md-4 d-flex align-items-stretch">
             <div class="offer-deal text-center px-2 px-lg-5">
-              <div class="img" style="background-image: url(images/offer-deal-3.jpg);"></div>
+              <div class="img" style="background-image: url(<?php base_url(); ?>asset/images/offer-deal-3.jpg);"></div>
               <div class="text mt-4">
                 <h3 class="mb-4">Special Offer &amp; Deal</h3>
                 <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
