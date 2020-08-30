@@ -471,7 +471,7 @@
                       </span>
                     </div>
                     <div class="d-flex align-items-center">
-                      <div class="user-img" style="background-image: url(images/person_1.jpg)">
+                      <div class="user-img" style="background-image: url(<?php base_url(); ?>asset/images/person_1.jpg)">
                       </div>
                       <div class="ml-4">
                         <p class="name">Gabby Smith</p>
@@ -492,7 +492,7 @@
                     </div>
 
                     <div class="d-flex align-items-center">
-                      <div class="user-img" style="background-image: url(images/person_2.jpg)">
+                      <div class="user-img" style="background-image: url(<?php base_url(); ?>asset/images/person_2.jpg)">
                       </div>
                       <div class="ml-4">
                         <p class="name">Floyd Weather</p>
@@ -513,7 +513,7 @@
                     </div>
 
                     <div class="d-flex align-items-center">
-                      <div class="user-img" style="background-image: url(images/person_3.jpg)">
+                      <div class="user-img" style="background-image: url(<?php base_url(); ?>asset/images/person_3.jpg)">
                       </div>
                       <div class="ml-4">
                         <p class="name">James Dee</p>
@@ -534,7 +534,7 @@
                     </div>
 
                     <div class="d-flex align-items-center">
-                      <div class="user-img" style="background-image: url(images/person_4.jpg)">
+                      <div class="user-img" style="background-image: url(<?php base_url(); ?>asset/images/person_4.jpg)">
                       </div>
                       <div class="ml-4">
                         <p class="name">Lance Roger</p>
@@ -555,7 +555,7 @@
                     </div>
 
                     <div class="d-flex align-items-center">
-                      <div class="user-img" style="background-image: url(images/person_2.jpg)">
+                      <div class="user-img" style="background-image: url(<?php base_url(); ?>asset/images/person_2.jpg)">
                       </div>
                       <div class="ml-4">
                         <p class="name">Kenny Bufer</p>
@@ -571,7 +571,7 @@
       </div>
     </section>
 
-    <section class="ftco-counter img" id="section-counter" style="background-image: url(images/bg_3.jpg);" data-stellar-background-ratio="0.5">
+    <section class="ftco-counter img" id="section-counter" style="background-image: url(<?php base_url(); ?>asset/images/bg_3.jpg);" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row justify-content-center">
@@ -626,7 +626,7 @@
         <div class="row d-flex">
           <div class="col-md-4 d-flex ftco-animate">
             <div class="blog-entry justify-content-end">
-              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');">
+              <a href="blog-single.html" class="block-20" style="background-image: url('<?php base_url(); ?>asset/images/image_1.jpg');">
               </a>
               <div class="text p-4 float-right d-block">
                 <div class="d-flex align-items-center pt-2 mb-4">
@@ -645,7 +645,7 @@
           </div>
           <div class="col-md-4 d-flex ftco-animate">
             <div class="blog-entry justify-content-end">
-              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_2.jpg');">
+              <a href="blog-single.html" class="block-20" style="background-image: url('<?php base_url(); ?>asset/images/image_2.jpg');">
               </a>
               <div class="text p-4 float-right d-block">
                 <div class="d-flex align-items-center pt-2 mb-4">
@@ -664,7 +664,7 @@
           </div>
           <div class="col-md-4 d-flex ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_3.jpg');">
+              <a href="blog-single.html" class="block-20" style="background-image: url('<?php base_url(); ?>asset/images/image_3.jpg');">
               </a>
               <div class="text p-4 float-right d-block">
                 <div class="d-flex align-items-center pt-2 mb-4">
@@ -695,14 +695,14 @@
         </div>
         <div class="row">
           <div class="col-md-3 ftco-animate">
-            <a href="images/gallery-1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery-1.jpg);">
+            <a href="images/gallery-1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(<?php base_url(); ?>asset/images/gallery-1.jpg);">
               <div class="icon mb-4 d-flex align-items-center justify-content-center">
                 <span class="icon-instagram"></span>
               </div>
             </a>
           </div>
           <div class="col-md-3 ftco-animate">
-            <a href="images/gallery-2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery-2.jpg);">
+            <a href="images/gallery-2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(<?php base_url(); ?>asset/images/gallery-2.jpg);">
               <div class="icon mb-4 d-flex align-items-center justify-content-center">
                 <span class="icon-instagram"></span>
               </div>
@@ -716,7 +716,7 @@
             </a>
           </div>
           <div class="col-md-3 ftco-animate">
-            <a href="images/gallery-4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery-4.jpg);">
+            <a href="images/gallery-4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(<?php base_url(); ?>asset/images/gallery-4.jpg);">
               <div class="icon mb-4 d-flex align-items-center justify-content-center">
                 <span class="icon-instagram"></span>
               </div>
@@ -786,7 +786,7 @@
               Copyright &copy;<script>
                 document.write(new Date().getFullYear());
 
-              </script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+              </script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Itproject29</a>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>
